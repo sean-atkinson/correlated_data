@@ -1,3 +1,3 @@
-# Introduction to Correlated Data Lab
+A series of correlated data problems.
 
-This lab serves as an intuitive introduction to correlated data.
+This is 100% conceptual and without and coding.
